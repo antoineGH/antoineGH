@@ -1,7 +1,6 @@
 ﻿<div>
 	<img
 		width="450em"
-		
 		src="https://github-readme-stats-maxduration10-ot1clsb6x-antoinegh.vercel.app/api?username=antoineGH&hide=contribs,prs&theme=codeSTACKr&show_icons=true&count_private=true"
 		alt="Github Stats"
 	/>
